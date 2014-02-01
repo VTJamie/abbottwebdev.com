@@ -1,0 +1,111 @@
+.ui-effects-transfer
+{	
+	border: 1px solid black;
+	z-index: 4;
+	background-color: #DDDDF9;
+}
+
+
+.-mcapple
+{
+font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	overflow: hidden;	
+	background-color: #FFF;	
+	border: 1px solid #999;
+	padding: 4px;
+	z-index: 1;
+}
+
+.-mcapple-topbar
+{	
+	background: url(images/wbg.gif) repeat-x top;	
+	border: 1px solid #ccc;
+	border-bottom: 0px;
+	border-top: 0px;
+	font-weight: bold;
+	display: block;
+	overflow: hidden;
+	white-space: nowrap;
+}
+
+.-mcapple-name
+{
+	padding: 6px;
+	white-space: nowrap;
+}
+
+.-mcapple-windowcontrols
+{
+	position: absolute;
+	top: 8px;
+	right: 7px;
+	padding: 0px;	
+	overflow: hidden;
+	border: 1px solid #ccc;
+	cursor: pointer;
+}
+
+.-mcapple-minimize
+{
+	float: left;
+	display: block;
+	border-left: 1px solid #eee;
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #ddd;
+	background: url(images/icons.png);
+	background-position: 34px 0;
+	width: 17px;
+	height: 17px;
+}
+
+.-mcapple-minimize:hover
+{
+	background-position: 34px 17px;	
+}
+
+
+.-mcapple-maximize
+{
+	float: left;
+	display: block;
+	border-left: 1px solid #eee;
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #ddd;
+	background: url(images/icons.png);
+	background-position: 17px 0;
+	width: 17px;
+	height: 17px;
+}
+.-mcapple-maximize:hover
+{
+	background-position: 17px 17px;	
+}
+
+.-mcapple-close
+{
+	float: left;
+	display: block;
+	border-left: 1px solid #eee;
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #ddd;
+	background: url(images/icons.png);	
+	width: 17px;
+	height: 17px;
+}
+
+.-mcapple-close:hover
+{
+	background-position: 0 17px;	
+}
+
+.-mcapple-contents
+{
+	float: left;
+	overflow: hidden;
+	border: 1px solid #FFF;	
+	background-color: #FFF;		
+	padding: 0;
+	margin: 0;
+	
+}

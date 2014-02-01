@@ -44,7 +44,7 @@ require.config({
             deps: ['angular']
         },
         'app': {
-            deps: ['jquery', 'angular', 'angular-route', 'angular-touch', 'bootstrap-collapse', 'bootstrap-dropdown', 'bootstrap-affix', 'bootstrap-carousel', 'snap']
+            deps: ['jquery', 'angular', 'angular-route', 'angular-touch', 'bootstrap-collapse', 'bootstrap-dropdown', 'bootstrap-affix', 'bootstrap-carousel']
         },
         'bootstrap-collapse': {
             deps: ['jquery', 'bootstrap-transition']

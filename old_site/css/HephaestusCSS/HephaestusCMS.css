@@ -1,0 +1,242 @@
+﻿  *
+  {
+      margin: 0;
+      padding: 0;
+      font-family: Verdana,Arial,sans-serif;
+	  font-size : 11px;
+  }
+  
+  body
+  {
+      overflow: hidden;
+  }
+  
+  .linkimg
+  {
+      border: 0px;
+  }
+    
+  .floatleft
+  {
+      float: left;
+  }      
+  
+  .floatright
+  {
+      float: right;
+  }
+    
+    .leftnav
+    {
+        float: left;
+        width: 199px;
+        border-bottom: solid 1px #377198;                  
+        border-right: solid 1px #377198;                
+    }
+    
+    .header
+    {
+        height: 75px;            
+        width: 100%;
+        border-top: solid 1px #377198;
+        border-bottom: solid 1px #377198;
+        background-color: #076879;    
+        overflow: auto;              
+    }
+    
+    .logo
+    {
+        margin-top: 9px;
+        margin-left: 10px;
+    }            
+    
+    .bar
+    {
+        height: 2px;
+        border-bottom: solid 1px #377198;        
+    }
+    
+    .maincontainer
+    {                        
+        overflow: hidden;
+        background-color: #F9F9F9;
+    }
+    
+    .rightbody
+    {
+        float: left;
+        width: 648px;          
+    }
+    
+    .navheader
+    {
+        border-bottom: solid 1px #377198;
+        min-height: 30px;
+    }
+    
+    .navlink
+    {
+        display: block;                                              
+        color: Black;
+        text-decoration: none;        
+    }
+    
+    .hephfielddiv
+    {
+        margin-right: 0;
+        margin-left: 0;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        width: 100%;
+        overflow: auto;
+    }
+    
+    .fieldlabel
+    {
+        float: left;
+        width: 100px;
+    }
+    
+    .hephinput
+    {
+        float: left;
+    }
+    
+    .container
+    {        
+        overflow: auto;  
+                                                            
+    }        
+    
+    .calbutton
+    {       
+        width: 20px;
+        height: 20px;
+        margin-top: 0;
+        margin-bottom: 0;
+        padding: 0;
+        float: left;
+        margin-left: 3px;
+        cursor: pointer;
+        cursor: hand;        
+        background-image: url(../../images/blueicon.png);
+        background-position: -178px -178px;
+    }
+    
+    .reqdiv
+    {
+        float: left;
+        font-weight: bold;
+        width: 15px;
+        text-align: center;
+    }
+    
+    #HephErrors
+    {
+        margin-bottom: 10px;
+    }
+    
+    .hephinput textarea
+    {
+        width: 250px;
+	    height: 100px;
+	    border: 3px solid #cccccc;
+	    padding: 5px;	    	    
+    }
+    
+    .newbutton
+    {
+        background-image: url(../../images/add.png);
+        background-repeat: no-repeat;
+        background-position: left center;
+    }
+    
+    .deletebutton
+    {
+        background-image: url(../../images/close.png);
+        background-repeat: no-repeat;
+        background-position: left center;
+    }                
+    
+    .leftdock
+    {                
+        overflow: hidden;      
+        padding: 2px;        
+    }
+    
+    .maindock
+    {   
+        overflow: auto;
+        padding: 2px;
+    }
+    
+    .rightdock
+    {                
+        overflow: hidden;    
+        padding: 2px;        
+    }
+    
+    .dockbar
+    {
+        overflow: auto;        
+        width: 4px;
+        border-left: solid 1px #d3d3d3;
+        border-right: solid 1px #d3d3d3;
+        background: #c1d2ee url(images/ui-bg_glass_75_e6e6e6_1x400.png) 50% 50%; 
+    }
+    
+    .ui-state-default-h
+    { 
+        border: 1px solid #d3d3d3; 
+        background: #e6e6e6 url(images/ui-bg_glass_75_e6e6e6_1x400.png) 50% 50% repeat-x; 
+        font-weight: normal; 
+        color: #555555; 
+        outline: none; 
+    }
+    
+     .hephtab
+     {
+         overflow: auto;
+     }
+     
+     .congroupcontainer
+     {
+         width: 150px;
+     }
+     
+     .conlink
+     {
+         cursor: pointer;
+         cursor: hand;
+         padding-left: 5px;
+     }
+     
+     .formlink
+     {
+         cursor: pointer;
+         cursor: hand;
+         padding-left: 5px;
+     }
+     
+     .formgroupcontainer
+     {
+         width: 150px;         
+     }
+     
+     .condeflink
+     {
+         cursor: pointer;
+         cursor: hand;
+         padding-left: 5px;
+     }
+     
+     .condefnavcontainer
+     {
+        width: 150px;         
+        float: left;
+     }
+     
+     .condefcontainer
+     {
+         float: left;
+     }

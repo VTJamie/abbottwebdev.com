@@ -1,0 +1,208 @@
+﻿
+
+body
+{
+	margin: 0;
+	padding: 0;
+	background-color: #000000;		
+	background-repeat: no-repeat;
+	background-position: center center;	
+	overflow: hidden;
+}
+
+.-desktop-toolbar
+{
+	height: 29px;
+	width: 100%;
+	background-image: url(images/toolbarbg.jpg);
+	position: fixed;
+	margin: 0;
+	padding: 0;
+	bottom: 0px;
+	z-index: 1500;
+}
+
+.-desktop-startbutton
+{
+	height: 29px;
+	width: 99px;
+	background: url(images/startup.png);
+	float: left;
+	margin-right: 10px;
+	position: relative;	
+	cursor: pointer;
+	cursor: hand;
+}
+
+.-desktop-startbutton.hover
+{
+	background: url(images/startdown.png);
+}
+
+.-desktop-startbutton .-desktop-startbutton-popup
+{
+	height: 305px;
+	width: 325px;
+	position: absolute;
+	top: -307px;	
+	left: 1px;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 12px;
+	display: none;
+	float: left;
+	background-color: #373b40;
+	border-top: 1px groove white;
+}
+
+.-desktop-startbutton.hover .-desktop-startbutton-popup
+{
+	display: block;
+}
+
+.-desktop-startbutton .-desktop-startbutton-popup-leftcol
+{
+	height: 300px;
+	width: 200px;
+	background-color: white;
+	float: left;
+	color: #000000;	
+}
+
+.-desktop-startbutton .-desktop-startbutton-popup-rightcol
+{
+	height: 350px;
+	width: 125px;	
+	float: left;
+	color: white;
+}
+
+.-desktop-startbutton-popup-leftcol-item
+{
+	padding-left: 35px;	
+	padding-right: 10px;
+	background-repeat: no-repeat;
+	background-image: url(images/AppIcon.png);
+	background-position: 10% 50%;
+	cursor: pointer;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+.-desktop-startbutton-popup-leftcol-item.hover
+{
+	background-color: #9999FF;
+	color: #2222FF;
+}
+
+.-desktop-startbutton-popup-rightcol-item
+{	
+	padding-left: 35px;	
+	padding-right: 10px;
+	background-repeat: no-repeat;
+	background-image: url(images/AppIcon.png);
+	background-position: 10% 50%;
+	cursor: pointer;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+.-desktop-startbutton-popup-rightcol-item.hover
+{
+	background-color: #9999FF;
+	color: #2222FF;
+}
+
+.-desktop-item
+{
+	float: left;	
+	height: 29px;	
+	margin: 0;	
+	cursor: pointer;
+	cursor: hand;
+}
+
+.-desktop-item .-desktop-item-left
+{
+	float: left;
+	background: url(images/left-uptoolbutton.png) no-repeat;
+	height: 29px;
+	width: 4px;	
+}
+
+.-desktop-item .-desktop-item-left-active
+{
+	background: url(images/left-downtoolbutton.png) no-repeat;
+}
+
+.-desktop-item .-desktop-item-middle
+{
+	float: left;
+	background: url(images/middle-uptoolbutton.png) repeat-x;
+	height: 15px;	
+	padding: 7px;
+	font-family: Arial;
+	font-weight: bold;
+	color: #F9F9F9;
+	font-size: 12px;		
+	width: 100px;
+	overflow: hidden;
+}
+
+
+.-desktop-item .-desktop-item-middle-active
+{
+	background: url(images/middle-downtoolbutton.png) repeat-x;
+}
+
+.-desktop-item .-desktop-item-middle .-desktop-item-middle-inner
+{
+	background: url(images/AppIcon.png) no-repeat;
+	padding-left: 20px;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+.-desktop-item .-desktop-item-right
+{
+	float: left;
+	background: url(images/right-uptoolbutton.png) no-repeat;
+	height: 29px;
+	width: 4px;	
+}
+
+.-desktop-item .-desktop-item-right-active
+{
+	background: url(images/right-downtoolbutton.png) no-repeat;
+}
+
+.-desktop-icon
+{
+	position: absolute;
+	font-family: Arial;
+	font-weight: bold;
+	color: #F9F9F9;
+	font-size: 12px;	
+	margin: 15px;
+	width: 100px;	
+	background-repeat: no-repeat;
+	background-position: 50% 0%;
+	text-align: center;
+	padding-top:  60px;	
+	cursor: pointer;	
+	background-image: url(images/default.png);
+}
+
+.-desktop-icon.hover
+{
+	color: #9999FF;
+}
+
+.startmenu-leftcolodd
+{
+	background-color: #DDDDDD;
+}
+
+.startmenu-rightcolodd
+{
+}

@@ -1,0 +1,11 @@
+﻿.am-label
+{
+	font-weight: bold;
+	width: 125px;
+	text-align: right;
+}
+
+.am-error
+{
+	color: Red;
+}

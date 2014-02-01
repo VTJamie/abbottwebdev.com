@@ -10,6 +10,7 @@ define(['jquery', 'angular', 'app', 'route_resolver_services_module', 'angular-u
         .state('/', $.extend({url: '/'}, route.resolve('home/home')))
         .state('/geotalk', $.extend({url: '/geotalk'}, route.resolve('geotalk/geotalk')))
         .state('/sleepapp', $.extend({url: '/sleepapp'}, route.resolve('sleepapp/sleepapp')))
+        .state('/privacy', $.extend({url: '/privacy'}, route.resolve('privacy')))
     }]);
 
     app.run(['$rootScope', '$location', '$state', function ($rootScope, $location, $state) {
