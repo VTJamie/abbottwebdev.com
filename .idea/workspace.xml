@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0f21073-46bc-435a-a349-4eaa5e949730" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/js/abbottwebdev/pages/geotalk/geotalk_controller.js" afterPath="$PROJECT_DIR$/webapp/js/abbottwebdev/pages/geotalk/geotalk_controller.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/js/abbottwebdev/pages/geotalk/geotalk_template.html" afterPath="$PROJECT_DIR$/webapp/js/abbottwebdev/pages/geotalk/geotalk_template.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/js/abbottwebdev/pages/home/home_template.html" afterPath="$PROJECT_DIR$/webapp/js/abbottwebdev/pages/home/home_template.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/js/abbottwebdev/main.js" afterPath="$PROJECT_DIR$/webapp/js/abbottwebdev/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/js/abbottwebdev/pages/sleepapp/sleepapp_template.html" afterPath="$PROJECT_DIR$/webapp/js/abbottwebdev/pages/sleepapp/sleepapp_template.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/js/abbottwebdev/main-built.js" afterPath="$PROJECT_DIR$/webapp/js/abbottwebdev/main-built.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="abbottwebdev.com.iws" />
@@ -74,25 +72,7 @@
       <file leaf-file-name="geotalk_template.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webapp/js/abbottwebdev/pages/geotalk/geotalk_template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="7" selection-start="302" selection-end="302" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="315">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header_directive.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapp/js/abbottwebdev/header/header_directive.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="3" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sleepapp_controller.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapp/js/abbottwebdev/pages/sleepapp/sleepapp_controller.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240">
+            <state line="4" column="199" selection-start="109" selection-end="284" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="450">
               <folding />
             </state>
           </provider>
@@ -107,19 +87,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sleepapp_template.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="sleepapp_template.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webapp/js/abbottwebdev/pages/sleepapp/sleepapp_template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="29" selection-start="638" selection-end="638" vertical-scroll-proportion="0.31304348" vertical-offset="0" max-vertical-offset="575">
+            <state line="17" column="31" selection-start="901" selection-end="901" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="465">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home_template.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="home_template.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/webapp/js/abbottwebdev/pages/home/home_template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="183" selection-start="1081" selection-end="1081" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="450">
+            <state line="23" column="26" selection-start="1236" selection-end="1236" vertical-scroll-proportion="0.6" vertical-offset="0" max-vertical-offset="575">
               <folding />
             </state>
           </provider>
@@ -146,7 +126,7 @@
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webapp/js/abbottwebdev/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="16" selection-start="1611" selection-end="1611" vertical-scroll-proportion="0.0" vertical-offset="470" max-vertical-offset="1365">
+            <state line="48" column="16" selection-start="1611" selection-end="1611" vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="1365">
               <folding />
             </state>
           </provider>
@@ -204,9 +184,11 @@
         <option value="$PROJECT_DIR$/webapp/js/abbottwebdev/pages/privacy_template.html" />
         <option value="$PROJECT_DIR$/webapp/js/abbottwebdev/main.js" />
         <option value="$PROJECT_DIR$/webapp/js/abbottwebdev/pages/geotalk/geotalk_controller.js" />
-        <option value="$PROJECT_DIR$/webapp/js/abbottwebdev/pages/home/home_template.html" />
-        <option value="$PROJECT_DIR$/webapp/js/abbottwebdev/pages/geotalk/geotalk_template.html" />
         <option value="$PROJECT_DIR$/webapp/js/abbottwebdev/pages/sleepapp/sleepapp_template.html" />
+        <option value="/private/var/folders/74/2k3gt4x53rz7944ddldh1wk80000gn/T/fz3temp-1/geotalk_template.html" />
+        <option value="/private/var/folders/74/2k3gt4x53rz7944ddldh1wk80000gn/T/fz3temp-1/index.html" />
+        <option value="$PROJECT_DIR$/webapp/js/abbottwebdev/pages/geotalk/geotalk_template.html" />
+        <option value="$PROJECT_DIR$/webapp/js/abbottwebdev/pages/home/home_template.html" />
       </list>
     </option>
   </component>
@@ -241,6 +223,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -528,7 +511,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -704,7 +686,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="732" extended-state="6" />
+    <frame x="0" y="22" width="1280" height="732" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -722,7 +704,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2578125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2015625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -748,25 +730,92 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/webapp/js/abbottwebdev/pages/geotalk/geotalk_controller.js">
+    <entry file="file://$PROJECT_DIR$/webapp/js/abbottwebdev/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="54" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+        <state line="48" column="16" selection-start="1611" selection-end="1611" vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="1365">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/js/abbottwebdev/utilities/routeresolverservices_module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="32" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="1320">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webapp/js/abbottwebdev/header/header_directive.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="3" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240">
-          <folding />
-        </state>
+        <state line="10" column="3" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webapp/js/abbottwebdev/pages/sleepapp/sleepapp_controller.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240">
+        <state line="10" column="0" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/js/abbottwebdev/pages/privacy_controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="36" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="240">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/js/abbottwebdev/pages/sleepapp/sleepapp_template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="29" selection-start="638" selection-end="638" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="465">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/js/abbottwebdev/pages/home/home_template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="183" selection-start="1081" selection-end="1081" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/js/abbottwebdev/pages/home/home_controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="34" selection-start="34" selection-end="54" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/js/abbottwebdev/pages/privacy_template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="27" selection-end="27" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="660">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/js/abbottwebdev/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="16" selection-start="1611" selection-end="1611" vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="1365">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/js/abbottwebdev/utilities/routeresolverservices_module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="32" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1320">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/js/abbottwebdev/pages/geotalk/geotalk_controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="54" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/js/abbottwebdev/header/header_directive.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="3" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/js/abbottwebdev/pages/sleepapp/sleepapp_controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webapp/js/abbottwebdev/pages/privacy_controller.js">
@@ -943,9 +992,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webapp/js/abbottwebdev/pages/sleepapp/sleepapp_controller.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
-          <folding />
-        </state>
+        <state line="10" column="0" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webapp/js/abbottwebdev/pages/home/home_controller.js">
@@ -957,35 +1004,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webapp/js/abbottwebdev/header/header_directive.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="3" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
-          <folding />
-        </state>
+        <state line="10" column="3" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webapp/js/abbottwebdev/pages/geotalk/geotalk_controller.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="54" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
-          <folding />
-        </state>
+        <state line="0" column="54" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/js/abbottwebdev/pages/home/home_template.html">
+    <entry file="file://$PROJECT_DIR$/webapp/js/abbottwebdev/pages/sleepapp/sleepapp_template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="183" selection-start="1081" selection-end="1081" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="450">
+        <state line="17" column="31" selection-start="901" selection-end="901" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="465">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webapp/js/abbottwebdev/pages/geotalk/geotalk_template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="7" selection-start="302" selection-end="302" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="315">
+        <state line="4" column="199" selection-start="109" selection-end="284" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="450">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/js/abbottwebdev/pages/sleepapp/sleepapp_template.html">
+    <entry file="file://$PROJECT_DIR$/webapp/js/abbottwebdev/pages/home/home_template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="29" selection-start="638" selection-end="638" vertical-scroll-proportion="0.31304348" vertical-offset="0" max-vertical-offset="575">
+        <state line="23" column="26" selection-start="1236" selection-end="1236" vertical-scroll-proportion="0.6" vertical-offset="0" max-vertical-offset="575">
           <folding />
         </state>
       </provider>
