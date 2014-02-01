@@ -43,6 +43,9 @@ require.config({
         'angular-touch': {
             deps: ['angular']
         },
+        'angular-ui-router': {
+            deps: ['angular']
+        },
         'app': {
             deps: ['jquery', 'angular', 'angular-route', 'angular-touch', 'bootstrap-collapse', 'bootstrap-dropdown', 'bootstrap-affix', 'bootstrap-carousel']
         },
